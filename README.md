@@ -9,6 +9,6 @@ An EPROM adapter for the 2332 sockets in the Commodore (dynamic) PET and 40xx/80
 
 The CBM30xx are PET2001N-16 or -32 (label in the back).
 
-* PET2001N: The adapter is compatible with all 4k ROM sockets (UD3-UD7 & UD9), except the Edit ROM (UD8) and the Character ROM (UF10). 
+* PET2001N: The adapter is compatible with all 4k ROM sockets (UD3-UD7 & UD9), <b>except</b> the Edit ROM (UD8) and the Character ROM (UF10). 
 
 This adapter is <b>not suitable</b> for the character generator ROM in any machine (neither C64, nor VIC-20).
